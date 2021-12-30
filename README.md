@@ -1,2 +1,2 @@
 # Java-POO
-# These are my projects carried out in the Complete Course java Object Oriented Programming
+# These are my projects made during the course: Complete java Object Oriented Programming
